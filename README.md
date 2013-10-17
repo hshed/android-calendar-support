@@ -4,8 +4,8 @@ Calendar Support Library for Android
 A calendar view widget for picking dates.
 Adapted from TimesSquare for Android, implemented using ViewPagers
 
-![Screenshot](Screen1.png)
-![Screenshot](Screen2.png)
+![Screenshot](screen1.png)
+![Screenshot](screen2.png)
 
 
 
