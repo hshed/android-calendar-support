@@ -1,0 +1,7 @@
+<resources>
+
+    <string name="app_name">Calendar API</string>
+<string name="day_name_format">EEE</string>
+  <string name="invalid_date">Date must be after %1$s.</string>
+  <string name="month_name_format">MMMM yyyy</string>
+</resources>
